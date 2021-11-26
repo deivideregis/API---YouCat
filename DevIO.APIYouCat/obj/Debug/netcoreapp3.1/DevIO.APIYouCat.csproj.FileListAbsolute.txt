@@ -1,0 +1,264 @@
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.csproj.AssemblyReference.cache
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.AssemblyInfoInputs.cache
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.AssemblyInfo.cs
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.csproj.CoreCompileInputs.cache
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.MvcApplicationPartsAssemblyInfo.cache
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.json
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.StaticWebAssets.xml
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.exe
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.deps.json
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.runtimeconfig.json
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.runtimeconfig.dev.json
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.pdb
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\HealthChecks.UI.SqlServer.Storage.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\AutoMapper.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Elmah.Io.AspNetCore.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Elmah.Io.AspNetCore.HealthChecks.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Elmah.Io.Client.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Elmah.Io.Extensions.Logging.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\FluentValidation.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Fractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.MvcApplicationPartsAssemblyInfo.cs
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\staticwebassets\DevIO.APIYouCat.StaticWebAssets.Manifest.cache
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\staticwebassets\DevIO.APIYouCat.StaticWebAssets.xml
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\scopedcss\bundle\DevIO.APIYouCat.styles.css
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.RazorTargetAssemblyInfo.cache
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.csproj.CopyComplete
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.dll
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.pdb
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.genruntimeconfig.cache
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.Production.Development.json
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.Production.json
+H:\PROJETO API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.Production.Development.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.Production.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.StaticWebAssets.xml
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.exe
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.deps.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.runtimeconfig.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.runtimeconfig.dev.json
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.APIYouCat.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\HealthChecks.UI.SqlServer.Storage.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Elmah.Io.AspNetCore.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Elmah.Io.AspNetCore.HealthChecks.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Elmah.Io.Client.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Elmah.Io.Extensions.Logging.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Fractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.csproj.AssemblyReference.cache
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.AssemblyInfoInputs.cache
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.AssemblyInfo.cs
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.csproj.CoreCompileInputs.cache
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.MvcApplicationPartsAssemblyInfo.cs
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.MvcApplicationPartsAssemblyInfo.cache
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\staticwebassets\DevIO.APIYouCat.StaticWebAssets.Manifest.cache
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\staticwebassets\DevIO.APIYouCat.StaticWebAssets.xml
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\scopedcss\bundle\DevIO.APIYouCat.styles.css
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.RazorTargetAssemblyInfo.cache
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.dll
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.genruntimeconfig.cache
+G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.csproj.CopyComplete

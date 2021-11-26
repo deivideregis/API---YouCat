@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmqzimifQ9Anz9TQmbEhR3tBoUlLAcqVC5Z8CCI604GTyQu0YkCB0H/Vfj6Xs3KhkBme96SS9s7UqZVx7Wtv+w==",
+  "success": true,
+  "projectFilePath": "G:\\PROJETO\\API\\APIYoutCat\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deivide\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

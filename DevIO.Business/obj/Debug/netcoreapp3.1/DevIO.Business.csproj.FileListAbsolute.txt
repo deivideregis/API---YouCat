@@ -1,0 +1,19 @@
+H:\PROJETO API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJETO API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+H:\PROJETO API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+H:\PROJETO API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+H:\PROJETO API\APIYoutCat\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+H:\PROJETO API\APIYoutCat\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+H:\PROJETO API\APIYoutCat\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+H:\PROJETO API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+H:\PROJETO API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
+H:\PROJETO API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.AssemblyReference.cache
+G:\PROJETO\API\APIYoutCat\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+G:\PROJETO\API\APIYoutCat\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\PROJETO\API\APIYoutCat\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb

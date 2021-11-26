@@ -1,0 +1,26 @@
+H:\PROJETO API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.AssemblyReference.cache
+H:\PROJETO API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJETO API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+H:\PROJETO API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+H:\PROJETO API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+H:\PROJETO API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+H:\PROJETO API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+H:\PROJETO API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+H:\PROJETO API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+H:\PROJETO API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+H:\PROJETO API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+H:\PROJETO API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+H:\PROJETO API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+G:\PROJETO\API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+G:\PROJETO\API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\PROJETO\API\APIYoutCat\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.AssemblyReference.cache
+G:\PROJETO\API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROJETO\API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+G:\PROJETO\API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+G:\PROJETO\API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+G:\PROJETO\API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+G:\PROJETO\API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
