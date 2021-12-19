@@ -17,3 +17,4 @@ G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.
 G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
 G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
 G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
+G:\PROJETO\API\APIYoutCat\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.AssemblyReference.cache
