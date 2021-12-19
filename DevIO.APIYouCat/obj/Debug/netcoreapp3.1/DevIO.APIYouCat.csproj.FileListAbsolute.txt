@@ -261,4 +261,3 @@ G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCa
 G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.dll
 G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.pdb
 G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.genruntimeconfig.cache
-G:\PROJETO\API\APIYoutCat\DevIO.APIYouCat\obj\Debug\netcoreapp3.1\DevIO.APIYouCat.csproj.CopyComplete

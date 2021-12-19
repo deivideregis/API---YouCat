@@ -23,9 +23,8 @@ namespace DevIO.APIYouCat
                 .AddJsonFile($"appsettings.{hostEnvironment.EnvironmentName}.json", true, true)
                 .AddEnvironmentVariables();
 
-            if (hostEnvironment.IsDevelopment())
+            if (hostEnvironment.IsProduction())
             {
-                //incluso: "DevIO.APILogs.csproj" => <UserSecretsId>2251a97e-616e-4708-a5ae-2cfb19a03d18</UserSecretsId>
                 builder.AddUserSecrets<Startup>();
             }
 
